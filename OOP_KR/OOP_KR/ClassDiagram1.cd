@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_KR.Elements" Collapsed="true">
+    <Position X="5.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAIQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Elements.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_KR.Resister" Collapsed="true">
+    <Position X="3.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAIAAAAIEAA=</HashCode>
+      <FileName>Resister.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_KR.Key" Collapsed="true">
+    <Position X="5.75" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_KR.CCS" Collapsed="true">
+    <Position X="7.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEAAAAgAAEAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>CCS.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOP_KR.Node">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEAAAAAAAAAAAAAAQAIBAECAAAAAgAAABAAAQ=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_KR.Branche">
+    <Position X="5.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAACEAAAAwBAEAAAAAAAAAAQAAAAEAAAAAABAAIA=</HashCode>
+      <FileName>Branche.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OOP_KR.Lamp" Collapsed="true">
+    <Position X="9" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_KR.CollectionElements">
+    <Position X="5" Y="9.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAEBABAAIQAAQAABAgAAAAAAAIAAACAAA=</HashCode>
+      <FileName>CollectionElements.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOP_KR.CollectionBranches">
+    <Position X="0.5" Y="4.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIIAAAAAAAAIABAAAAAAAAQAAAAAAAAEAAQAAACAAAA=</HashCode>
+      <FileName>CollectionBranches.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OOP_KR.ElectricalСircuit">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIQAgAAAAIAAAACAAAAAAAAgAAAAJAAAAIACAAAE=</HashCode>
+      <FileName>ElectricalСircuit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOP_KR.IDirection">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDirection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="System.Collections.IEnumerable">
+    <Position X="0.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
